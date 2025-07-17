@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "good:block/bio_centrifuge_top",
+    "bottom": "good:block/bio_centrifuge_side",
+    "side": "good:block/bio_centrifuge_side"
+  }
+}

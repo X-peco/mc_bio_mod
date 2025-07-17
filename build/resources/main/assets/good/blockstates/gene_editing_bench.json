@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "good:block/gene_editing_bench" }
+  }
+}

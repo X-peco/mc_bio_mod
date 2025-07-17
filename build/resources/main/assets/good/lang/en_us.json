@@ -1,0 +1,25 @@
+{
+  "item.good.syringe": "Syringe",
+  "itemgroup.good.gene_tech": "Gene-Tech",
+
+  "block.good.bio_centrifuge": "Bio-Centrifuge",
+  "block.good.gene_editing_bench": "Gene Editing Bench",
+
+  "item.good.aqp4_gene": "AQP-4 - Aquaporin Gene",
+  "item.good.rho7_gene": "RHO-7 - Rhodopsin Gene",
+  "item.good.nec1_gene": "NEC-1 - Necrosis Factor Gene",
+  "item.good.titan2_gene": "TITAN-2 - Titin Protein Gene",
+  "item.good.pyr9_gene": "PYR-9 - Thermophilic Protein Gene",
+  "item.good.ltx4_gene": "LTX-4 - Latrotoxin Gene",
+
+  "item.good.aqp4_nutrient": "AQP-4 - Purified Protein",
+  "item.good.rho7_nutrient": "RHO-7 - Photoreceptor",
+  "item.good.nec1_nutrient": "NEC-1 - Regeneration Factor",
+  "item.good.titan2_nutrient": "TITAN-2 - Structural Protein",
+  "item.good.pyr9_nutrient": "PYR-9 - Thermophilic Enzyme",
+  "item.good.ltx4_nutrient": "LTX-4 - Neurotoxin",
+
+  "item.good.armored_tuber_food": "Armored Tuber Food",
+  "item.good.abyssal_algae_food": "Abyssal Algae Food",
+  "item.good.magma_beet_food": "Magma Beet Food"
+}

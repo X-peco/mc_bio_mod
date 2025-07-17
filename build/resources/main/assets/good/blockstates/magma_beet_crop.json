@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "age=0": { "model": "good:block/magma_beet_crop_stage0" },
+    "age=1": { "model": "good:block/magma_beet_crop_stage1" },
+    "age=2": { "model": "good:block/magma_beet_crop_stage2" },
+    "age=3": { "model": "good:block/magma_beet_crop_stage3" }
+  }
+}

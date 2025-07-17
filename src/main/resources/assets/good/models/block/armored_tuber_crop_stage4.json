@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "good:block/armored_tuber_crop_stage4"
+  }
+}
